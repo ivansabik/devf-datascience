@@ -1,4 +1,5 @@
 pandas
 sklearn
 scipy
+seaborn
 matplotlib
