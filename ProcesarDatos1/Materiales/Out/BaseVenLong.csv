@@ -1,0 +1,2289 @@
+"pais","year","imports"
+"Mundo",2001,16435556
+"Estados Unidos de América",2001,5572168
+"China",2001,335725
+"Brasil",2001,974925
+"Colombia",2001,1432268
+"México",2001,773795
+"España",2001,448100
+"Panamá",2001,375721
+"Argentina",2001,226740
+"Chile",2001,281839
+"Alemania",2001,578931
+"Perú",2001,129467
+"Ecuador",2001,157919
+"Italia",2001,549404
+"Canadá",2001,473154
+"Japón",2001,749115
+"Francia",2001,302596
+"Cuba",2001,13747
+"Reino Unido",2001,344867
+"Bolivia",2001,178202
+"Suiza",2001,145634
+"Países Bajos (Holanda)",2001,168692
+"República de Corea",2001,352344
+"Uruguay",2001,55869
+"Singapur",2001,34980
+"Antillas Holandesas",2001,368213
+"Federación de Rusia",2001,21016
+"Nueva Zelandia",2001,51000
+"Hong Kong (China)",2001,150956
+"Nicaragua",2001,1025
+"India",2001,49682
+"Bélgica",2001,114350
+"Suecia",2001,77209
+"Taipei Chino",2001,124136
+"Tailandia",2001,20118
+"Austria",2001,29065
+"Indonesia",2001,28236
+"Portugal",2001,22193
+"Irlanda",2001,39279
+"Belarús",2001,1347
+"Paraguay",2001,18955
+"Guatemala",2001,0
+"Malasia",2001,16577
+"Dinamarca",2001,40437
+"Turquía",2001,13991
+"Costa Rica",2001,23205
+"República Dominicana",2001,7311
+"Finlandia",2001,75200
+"Polonia",2001,9803
+"Islas Vírgenes Británicas",2001,854
+"Marruecos",2001,3922
+"Hungría",2001,3339
+"Egipto",2001,976
+"Tokelau",2001,0
+"Israel",2001,29652
+"Noruega",2001,22165
+"Sudafrica",2001,17872
+"Eslovaquia",2001,917
+"República Popular Democráticade Corea",2001,32
+"Ucrania",2001,10221
+"Viet Nam",2001,4436
+"Australia",2001,7861
+"Emiratos Árabes Unidos",2001,823
+"Guyana",2001,2524
+"Irán (República Islámica del)",2001,185
+"República Checa",2001,6900
+"Honduras",2001,615
+"Lituania",2001,455
+"Barbados",2001,1055
+"Pakistán",2001,7184
+"Trinidad y Tobago",2001,40997
+"Filipinas",2001,3477
+"Jamaica",2001,3312
+"Arabia Saudita",2001,6675
+"El Salvador",2001,5975
+"República Árabe Siria",2001,1294
+"Bangladesh",2001,140
+"Rumania",2001,15598
+"Iraq",2001,19
+"Eslovenia",2001,2497
+"Albania",2001,41
+"Islandia",2001,234
+"Grecia",2001,4741
+"Sri Lanka",2001,112
+"Afganistán",2001,12
+"Aruba",2001,62140
+"Malta",2001,229
+"Líbano",2001,376
+"Nigeria",2001,155034
+"Pitcairn",2001,0
+"Brunei Darussalam",2001,0
+"Luxemburgo",2001,630
+"Santa Helena",2001,0
+"Letonia",2001,0
+"Kuwait",2001,19
+"Jordania",2001,179
+"Mauricio",2001,0
+"Sudán",2001,34
+"Suriname",2001,660
+"Túnez",2001,287
+"Belice",2001,293
+"Santa Lucía",2001,12
+"Estonia",2001,698
+"Georgia",2001,221
+"Chipre",2001,726
+"Bulgaria",2001,2105
+"Zimbabwe",2001,13
+"Antigua y Barbuda",2001,1404
+"Montserrat",2001,0
+"Nueva Caledonia",2001,0
+"Etiopía",2001,0
+"República Centroafricana",2001,0
+"Micronesia (Estados Federados de)",2001,0
+"Estados Unidos Minor periferico Islas",2001,0
+"Senegal",2001,26
+"Islas Cocos (Keeling)",2001,0
+"Haití",2001,17
+"Camerún",2001,2642
+"Islas Caimanes",2001,54
+"Malí",2001,989
+"Liberia",2001,354
+"Namibia",2001,0
+"Angola",2001,24
+"Islas Salomon",2001,0
+"Dominica",2001,143
+"Bahamas",2001,83
+"Qatar",2001,0
+"Islas Turks y Caicos",2001,38
+"Mozambique",2001,1
+"Armenia",2001,22
+"Bahrein",2001,1
+"Andorra",2001,0
+"San Vicente y las Granadinas",2001,1097
+"Omán",2001,171
+"Croacia",2001,171
+"Cabo Verde",2001,0
+"Mauritania",2001,0
+"Gabón",2001,0
+"Uzbekistán",2001,0
+"Camboya",2001,9
+"Serbia",2001,0
+"la ex República Yugoslavade Macedonia",2001,0
+"Níger",2001,0
+"Islas Feroe",2001,0
+"Congo",2001,155
+"Madagascar",2001,85
+"Papua Nueva Guinea",2001,0
+"República Democrática del Congo",2001,0
+"Islas (Malvinas) Falkland",2001,0
+"Gibraltar",2001,0
+"Benin",2001,423
+"Sierra Leona",2001,0
+"Kenya",2001,849
+"Seychelles",2001,0
+"Palestina",2001,0
+"Somalia",2001,0
+"Comoras",2001,0
+"Kazajstán",2001,0
+"Chad",2001,0
+"Guinea Ecuatorial",2001,0
+"Tierras Australes Francesas",2001,0
+"República Democrática Popular Lao",2001,0
+"Libia",2001,2210
+"Nauru",2001,0
+"Vanuatu",2001,0
+"Niué",2001,0
+"Isla Norfolk",2001,0
+"Palau",2001,0
+"Anguila",2001,0
+"Sahara occidental",2001,0
+"Suazilandia",2001,0
+"Tayikistán",2001,0
+"Turkmenistán",2001,0
+"Serbia y Montenegro",2001,99
+"Zona Nep",2001,19598
+"Argelia",2001,1799
+"Azerbaiyán",2001,8
+"Bermudas",2001,258
+"Bhután",2001,100
+"Bosnia y Herzegovina",2001,0
+"Myanmar (Birmania)",2001,0
+"Islas Cook",2001,0
+"Eritrea",2001,0
+"Polinesia Francesa",2001,0
+"Ghana",2001,615
+"Groenlandia",2001,0
+"Granada",2001,241
+"Guinea",2001,0
+"Côte d'Ivoire (Costa de Marfil)",2001,125
+"Kirguistán",2001,0
+"Macao (China)",2001,0
+"Malawi",2001,11
+"Maldivas",2001,0
+"Mongolia",2001,12
+"República de Moldova",2001,0
+"Nepal",2001,9
+"Timor-Leste",2001,0
+"Ruanda",2001,0
+"Saint Kitts y Nevis",2001,0
+"Sao Tomé y Príncipe",2001,0
+"Togo",2001,566
+"Uganda",2001,442
+"República Unida de Tanzanía",2001,967
+"Burkina Faso",2001,9463
+"Venezuela",2001,0
+"Samoa",2001,0
+"Yemen",2001,0
+"Zambia",2001,0
+"Mundo",2002,11673346
+"Estados Unidos de América",2002,3844923
+"China",2002,224788
+"Brasil",2002,755405
+"Colombia",2002,963673
+"México",2002,536845
+"España",2002,319084
+"Panamá",2002,192040
+"Argentina",2002,151369
+"Chile",2002,189898
+"Alemania",2002,582938
+"Perú",2002,91427
+"Ecuador",2002,59230
+"Italia",2002,504915
+"Canadá",2002,320142
+"Japón",2002,435875
+"Francia",2002,221666
+"Cuba",2002,4687
+"Reino Unido",2002,279273
+"Bolivia",2002,163476
+"Suiza",2002,119799
+"Países Bajos (Holanda)",2002,125218
+"República de Corea",2002,226305
+"Uruguay",2002,37721
+"Singapur",2002,13048
+"Antillas Holandesas",2002,259178
+"Federación de Rusia",2002,17307
+"Nueva Zelandia",2002,31070
+"Hong Kong (China)",2002,80112
+"Nicaragua",2002,2252
+"India",2002,33035
+"Bélgica",2002,105313
+"Suecia",2002,71524
+"Taipei Chino",2002,75934
+"Tailandia",2002,16665
+"Austria",2002,29136
+"Indonesia",2002,22788
+"Portugal",2002,10776
+"Irlanda",2002,28113
+"Belarús",2002,0
+"Paraguay",2002,36219
+"Guatemala",2002,0
+"Malasia",2002,10056
+"Dinamarca",2002,38371
+"Turquía",2002,9452
+"Costa Rica",2002,20249
+"República Dominicana",2002,4323
+"Finlandia",2002,36197
+"Polonia",2002,13510
+"Islas Vírgenes Británicas",2002,2893
+"Marruecos",2002,675
+"Hungría",2002,3082
+"Egipto",2002,1006
+"Tokelau",2002,0
+"Israel",2002,15336
+"Noruega",2002,17571
+"Sudafrica",2002,15060
+"Eslovaquia",2002,380
+"República Popular Democráticade Corea",2002,948
+"Ucrania",2002,11276
+"Viet Nam",2002,2517
+"Australia",2002,7842
+"Emiratos Árabes Unidos",2002,836
+"Guyana",2002,1670
+"Irán (República Islámica del)",2002,400
+"República Checa",2002,4288
+"Honduras",2002,366
+"Lituania",2002,16
+"Barbados",2002,1066
+"Pakistán",2002,4279
+"Trinidad y Tobago",2002,141367
+"Filipinas",2002,1191
+"Jamaica",2002,4803
+"Arabia Saudita",2002,626
+"El Salvador",2002,3427
+"República Árabe Siria",2002,1094
+"Bangladesh",2002,278
+"Rumania",2002,16447
+"Iraq",2002,23
+"Eslovenia",2002,980
+"Albania",2002,17
+"Islandia",2002,0
+"Grecia",2002,1906
+"Sri Lanka",2002,178
+"Afganistán",2002,109
+"Aruba",2002,39694
+"Malta",2002,37
+"Líbano",2002,181
+"Nigeria",2002,5876
+"Pitcairn",2002,9
+"Brunei Darussalam",2002,3
+"Luxemburgo",2002,1236
+"Santa Helena",2002,0
+"Letonia",2002,0
+"Kuwait",2002,13
+"Jordania",2002,15
+"Mauricio",2002,0
+"Sudán",2002,0
+"Suriname",2002,287
+"Túnez",2002,150
+"Belice",2002,794
+"Santa Lucía",2002,93
+"Estonia",2002,579
+"Georgia",2002,0
+"Chipre",2002,5075
+"Bulgaria",2002,984
+"Zimbabwe",2002,0
+"Antigua y Barbuda",2002,0
+"Montserrat",2002,0
+"Nueva Caledonia",2002,0
+"Etiopía",2002,20
+"República Centroafricana",2002,0
+"Micronesia (Estados Federados de)",2002,0
+"Estados Unidos Minor periferico Islas",2002,0
+"Senegal",2002,0
+"Islas Cocos (Keeling)",2002,0
+"Haití",2002,3
+"Camerún",2002,346
+"Islas Caimanes",2002,21
+"Malí",2002,159
+"Liberia",2002,0
+"Namibia",2002,0
+"Angola",2002,130
+"Islas Salomon",2002,0
+"Dominica",2002,65
+"Bahamas",2002,0
+"Qatar",2002,2
+"Islas Turks y Caicos",2002,616
+"Mozambique",2002,0
+"Armenia",2002,128
+"Bahrein",2002,1
+"Andorra",2002,9
+"San Vicente y las Granadinas",2002,0
+"Omán",2002,336
+"Croacia",2002,170
+"Cabo Verde",2002,0
+"Mauritania",2002,0
+"Gabón",2002,0
+"Uzbekistán",2002,867
+"Camboya",2002,17
+"Serbia",2002,0
+"la ex República Yugoslavade Macedonia",2002,0
+"Níger",2002,0
+"Islas Feroe",2002,0
+"Congo",2002,0
+"Madagascar",2002,1
+"Papua Nueva Guinea",2002,9
+"República Democrática del Congo",2002,4
+"Islas (Malvinas) Falkland",2002,0
+"Gibraltar",2002,66
+"Benin",2002,296
+"Sierra Leona",2002,183
+"Kenya",2002,511
+"Seychelles",2002,0
+"Palestina",2002,0
+"Somalia",2002,0
+"Comoras",2002,0
+"Kazajstán",2002,0
+"Chad",2002,0
+"Guinea Ecuatorial",2002,0
+"Tierras Australes Francesas",2002,0
+"República Democrática Popular Lao",2002,0
+"Libia",2002,2130
+"Nauru",2002,0
+"Vanuatu",2002,0
+"Niué",2002,0
+"Isla Norfolk",2002,0
+"Palau",2002,0
+"Anguila",2002,0
+"Sahara occidental",2002,0
+"Suazilandia",2002,7
+"Tayikistán",2002,11
+"Turkmenistán",2002,0
+"Serbia y Montenegro",2002,117
+"Zona Nep",2002,13837
+"Argelia",2002,6
+"Azerbaiyán",2002,0
+"Bermudas",2002,34
+"Bhután",2002,0
+"Bosnia y Herzegovina",2002,50
+"Myanmar (Birmania)",2002,72
+"Islas Cook",2002,23
+"Eritrea",2002,0
+"Polinesia Francesa",2002,0
+"Ghana",2002,0
+"Groenlandia",2002,0
+"Granada",2002,0
+"Guinea",2002,0
+"Côte d'Ivoire (Costa de Marfil)",2002,71
+"Kirguistán",2002,0
+"Macao (China)",2002,0
+"Malawi",2002,79
+"Maldivas",2002,0
+"Mongolia",2002,0
+"República de Moldova",2002,0
+"Nepal",2002,31
+"Timor-Leste",2002,0
+"Ruanda",2002,0
+"Saint Kitts y Nevis",2002,0
+"Sao Tomé y Príncipe",2002,0
+"Togo",2002,0
+"Uganda",2002,1157
+"República Unida de Tanzanía",2002,603
+"Burkina Faso",2002,16842
+"Venezuela",2002,0
+"Samoa",2002,13
+"Yemen",2002,0
+"Zambia",2002,0
+"Mundo",2003,8357705
+"Estados Unidos de América",2003,2753955
+"China",2003,175996
+"Brasil",2003,555430
+"Colombia",2003,712992
+"México",2003,416251
+"España",2003,330997
+"Panamá",2003,123082
+"Argentina",2003,141776
+"Chile",2003,135186
+"Alemania",2003,347812
+"Perú",2003,71534
+"Ecuador",2003,52629
+"Italia",2003,272018
+"Canadá",2003,219621
+"Japón",2003,194536
+"Francia",2003,222033
+"Cuba",2003,96218
+"Reino Unido",2003,234904
+"Bolivia",2003,160761
+"Suiza",2003,91897
+"Países Bajos (Holanda)",2003,83700
+"República de Corea",2003,82609
+"Uruguay",2003,17926
+"Singapur",2003,11230
+"Antillas Holandesas",2003,22362
+"Federación de Rusia",2003,19180
+"Nueva Zelandia",2003,55270
+"Hong Kong (China)",2003,31465
+"Nicaragua",2003,655
+"India",2003,25998
+"Bélgica",2003,66661
+"Suecia",2003,53919
+"Taipei Chino",2003,54852
+"Tailandia",2003,9964
+"Austria",2003,79565
+"Indonesia",2003,25322
+"Portugal",2003,6613
+"Irlanda",2003,32899
+"Belarús",2003,0
+"Paraguay",2003,64845
+"Guatemala",2003,0
+"Malasia",2003,9376
+"Dinamarca",2003,31784
+"Turquía",2003,17335
+"Costa Rica",2003,11893
+"República Dominicana",2003,2248
+"Finlandia",2003,34511
+"Polonia",2003,6590
+"Islas Vírgenes Británicas",2003,176
+"Marruecos",2003,1946
+"Hungría",2003,2015
+"Egipto",2003,515
+"Tokelau",2003,0
+"Israel",2003,15982
+"Noruega",2003,31470
+"Sudafrica",2003,6533
+"Eslovaquia",2003,126
+"República Popular Democráticade Corea",2003,0
+"Ucrania",2003,16389
+"Viet Nam",2003,6416
+"Australia",2003,5434
+"Emiratos Árabes Unidos",2003,3093
+"Guyana",2003,754
+"Irán (República Islámica del)",2003,510
+"República Checa",2003,2940
+"Honduras",2003,3088
+"Lituania",2003,2
+"Barbados",2003,100
+"Pakistán",2003,1191
+"Trinidad y Tobago",2003,24530
+"Filipinas",2003,1411
+"Jamaica",2003,3828
+"Arabia Saudita",2003,243
+"El Salvador",2003,3158
+"República Árabe Siria",2003,533
+"Bangladesh",2003,194
+"Rumania",2003,1712
+"Iraq",2003,0
+"Eslovenia",2003,857
+"Albania",2003,65
+"Islandia",2003,6
+"Grecia",2003,2528
+"Sri Lanka",2003,89
+"Afganistán",2003,10
+"Aruba",2003,13230
+"Malta",2003,17
+"Líbano",2003,325
+"Nigeria",2003,1211
+"Pitcairn",2003,0
+"Brunei Darussalam",2003,0
+"Luxemburgo",2003,1784
+"Santa Helena",2003,21
+"Letonia",2003,0
+"Kuwait",2003,4
+"Jordania",2003,0
+"Mauricio",2003,0
+"Sudán",2003,762
+"Suriname",2003,185
+"Túnez",2003,249
+"Belice",2003,351
+"Santa Lucía",2003,32
+"Estonia",2003,289
+"Georgia",2003,0
+"Chipre",2003,0
+"Bulgaria",2003,1960
+"Zimbabwe",2003,0
+"Antigua y Barbuda",2003,84
+"Montserrat",2003,2
+"Nueva Caledonia",2003,0
+"Etiopía",2003,0
+"República Centroafricana",2003,0
+"Micronesia (Estados Federados de)",2003,0
+"Estados Unidos Minor periferico Islas",2003,0
+"Senegal",2003,0
+"Islas Cocos (Keeling)",2003,0
+"Haití",2003,0
+"Camerún",2003,211
+"Islas Caimanes",2003,4230
+"Malí",2003,0
+"Liberia",2003,6626
+"Namibia",2003,21
+"Angola",2003,22
+"Islas Salomon",2003,0
+"Dominica",2003,58
+"Bahamas",2003,588
+"Qatar",2003,1
+"Islas Turks y Caicos",2003,0
+"Mozambique",2003,0
+"Armenia",2003,3
+"Bahrein",2003,0
+"Andorra",2003,99
+"San Vicente y las Granadinas",2003,0
+"Omán",2003,5
+"Croacia",2003,304
+"Cabo Verde",2003,0
+"Mauritania",2003,0
+"Gabón",2003,0
+"Uzbekistán",2003,0
+"Camboya",2003,0
+"Serbia",2003,0
+"la ex República Yugoslavade Macedonia",2003,3
+"Níger",2003,0
+"Islas Feroe",2003,0
+"Congo",2003,0
+"Madagascar",2003,27
+"Papua Nueva Guinea",2003,0
+"República Democrática del Congo",2003,0
+"Islas (Malvinas) Falkland",2003,0
+"Gibraltar",2003,0
+"Benin",2003,488
+"Sierra Leona",2003,0
+"Kenya",2003,21
+"Seychelles",2003,0
+"Palestina",2003,0
+"Somalia",2003,17
+"Comoras",2003,0
+"Kazajstán",2003,10
+"Chad",2003,0
+"Guinea Ecuatorial",2003,20
+"Tierras Australes Francesas",2003,0
+"República Democrática Popular Lao",2003,0
+"Libia",2003,11
+"Nauru",2003,0
+"Vanuatu",2003,0
+"Niué",2003,0
+"Isla Norfolk",2003,0
+"Palau",2003,6
+"Anguila",2003,0
+"Sahara occidental",2003,0
+"Suazilandia",2003,0
+"Tayikistán",2003,0
+"Turkmenistán",2003,0
+"Serbia y Montenegro",2003,0
+"Zona Nep",2003,9088
+"Argelia",2003,195
+"Azerbaiyán",2003,0
+"Bermudas",2003,3397
+"Bhután",2003,0
+"Bosnia y Herzegovina",2003,0
+"Myanmar (Birmania)",2003,0
+"Islas Cook",2003,0
+"Eritrea",2003,0
+"Polinesia Francesa",2003,0
+"Ghana",2003,0
+"Groenlandia",2003,0
+"Granada",2003,0
+"Guinea",2003,21
+"Côte d'Ivoire (Costa de Marfil)",2003,63
+"Kirguistán",2003,0
+"Macao (China)",2003,52
+"Malawi",2003,0
+"Maldivas",2003,0
+"Mongolia",2003,0
+"República de Moldova",2003,0
+"Nepal",2003,0
+"Timor-Leste",2003,0
+"Ruanda",2003,0
+"Saint Kitts y Nevis",2003,0
+"Sao Tomé y Príncipe",2003,0
+"Togo",2003,0
+"Uganda",2003,10
+"República Unida de Tanzanía",2003,0
+"Burkina Faso",2003,5358
+"Venezuela",2003,0
+"Samoa",2003,0
+"Yemen",2003,0
+"Zambia",2003,0
+"Mundo",2004,14697161
+"Estados Unidos de América",2004,4579275
+"China",2004,424929
+"Brasil",2004,1238357
+"Colombia",2004,1563366
+"México",2004,686351
+"España",2004,540176
+"Panamá",2004,276927
+"Argentina",2004,299455
+"Chile",2004,237519
+"Alemania",2004,468189
+"Perú",2004,132943
+"Ecuador",2004,116412
+"Italia",2004,418342
+"Canadá",2004,433428
+"Japón",2004,534831
+"Francia",2004,202039
+"Cuba",2004,103173
+"Reino Unido",2004,482891
+"Bolivia",2004,200070
+"Suiza",2004,126423
+"Países Bajos (Holanda)",2004,123333
+"República de Corea",2004,192462
+"Uruguay",2004,26904
+"Singapur",2004,18369
+"Antillas Holandesas",2004,92427
+"Federación de Rusia",2004,40338
+"Nueva Zelandia",2004,35445
+"Hong Kong (China)",2004,59132
+"Nicaragua",2004,1498
+"India",2004,48891
+"Bélgica",2004,156748
+"Suecia",2004,53492
+"Taipei Chino",2004,109826
+"Tailandia",2004,22827
+"Austria",2004,27611
+"Indonesia",2004,50269
+"Portugal",2004,9492
+"Irlanda",2004,30540
+"Belarús",2004,32
+"Paraguay",2004,76938
+"Guatemala",2004,0
+"Malasia",2004,33015
+"Dinamarca",2004,21060
+"Turquía",2004,13267
+"Costa Rica",2004,15280
+"República Dominicana",2004,3826
+"Finlandia",2004,22254
+"Polonia",2004,24947
+"Islas Vírgenes Británicas",2004,190
+"Marruecos",2004,4727
+"Hungría",2004,3488
+"Egipto",2004,772
+"Tokelau",2004,0
+"Israel",2004,15473
+"Noruega",2004,15116
+"Sudafrica",2004,14597
+"Eslovaquia",2004,2261
+"República Popular Democráticade Corea",2004,260
+"Ucrania",2004,16827
+"Viet Nam",2004,5401
+"Australia",2004,9263
+"Emiratos Árabes Unidos",2004,4737
+"Guyana",2004,937
+"Irán (República Islámica del)",2004,352
+"República Checa",2004,2562
+"Honduras",2004,451
+"Lituania",2004,4434
+"Barbados",2004,86
+"Pakistán",2004,8614
+"Trinidad y Tobago",2004,16607
+"Filipinas",2004,2079
+"Jamaica",2004,17084
+"Arabia Saudita",2004,200
+"El Salvador",2004,1988
+"República Árabe Siria",2004,1577
+"Bangladesh",2004,227
+"Rumania",2004,17600
+"Iraq",2004,9
+"Eslovenia",2004,1852
+"Albania",2004,615
+"Islandia",2004,0
+"Grecia",2004,3393
+"Sri Lanka",2004,166
+"Afganistán",2004,141
+"Aruba",2004,13112
+"Malta",2004,3040
+"Líbano",2004,333
+"Nigeria",2004,631
+"Pitcairn",2004,0
+"Brunei Darussalam",2004,0
+"Luxemburgo",2004,136
+"Santa Helena",2004,0
+"Letonia",2004,0
+"Kuwait",2004,55
+"Jordania",2004,479
+"Mauricio",2004,6
+"Sudán",2004,458
+"Suriname",2004,21
+"Túnez",2004,211
+"Belice",2004,270
+"Santa Lucía",2004,4
+"Estonia",2004,5763
+"Georgia",2004,0
+"Chipre",2004,3245
+"Bulgaria",2004,2613
+"Zimbabwe",2004,4
+"Antigua y Barbuda",2004,72
+"Montserrat",2004,0
+"Nueva Caledonia",2004,0
+"Etiopía",2004,0
+"República Centroafricana",2004,0
+"Micronesia (Estados Federados de)",2004,0
+"Estados Unidos Minor periferico Islas",2004,0
+"Senegal",2004,277
+"Islas Cocos (Keeling)",2004,0
+"Haití",2004,45
+"Camerún",2004,790
+"Islas Caimanes",2004,211
+"Malí",2004,0
+"Liberia",2004,10946
+"Namibia",2004,20
+"Angola",2004,0
+"Islas Salomon",2004,0
+"Dominica",2004,700
+"Bahamas",2004,40231
+"Qatar",2004,52
+"Islas Turks y Caicos",2004,4
+"Mozambique",2004,0
+"Armenia",2004,225
+"Bahrein",2004,0
+"Andorra",2004,71
+"San Vicente y las Granadinas",2004,0
+"Omán",2004,394
+"Croacia",2004,45
+"Cabo Verde",2004,0
+"Mauritania",2004,0
+"Gabón",2004,5
+"Uzbekistán",2004,109
+"Camboya",2004,0
+"Serbia",2004,0
+"la ex República Yugoslavade Macedonia",2004,119
+"Níger",2004,0
+"Islas Feroe",2004,0
+"Congo",2004,4500
+"Madagascar",2004,36
+"Papua Nueva Guinea",2004,0
+"República Democrática del Congo",2004,0
+"Islas (Malvinas) Falkland",2004,0
+"Gibraltar",2004,0
+"Benin",2004,6
+"Sierra Leona",2004,0
+"Kenya",2004,416
+"Seychelles",2004,0
+"Palestina",2004,0
+"Somalia",2004,0
+"Comoras",2004,0
+"Kazajstán",2004,3
+"Chad",2004,0
+"Guinea Ecuatorial",2004,0
+"Tierras Australes Francesas",2004,0
+"República Democrática Popular Lao",2004,0
+"Libia",2004,0
+"Nauru",2004,0
+"Vanuatu",2004,0
+"Niué",2004,0
+"Isla Norfolk",2004,0
+"Palau",2004,0
+"Anguila",2004,5
+"Sahara occidental",2004,0
+"Suazilandia",2004,0
+"Tayikistán",2004,0
+"Turkmenistán",2004,0
+"Serbia y Montenegro",2004,28
+"Zona Nep",2004,21514
+"Argelia",2004,90
+"Azerbaiyán",2004,0
+"Bermudas",2004,639
+"Bhután",2004,0
+"Bosnia y Herzegovina",2004,0
+"Myanmar (Birmania)",2004,1
+"Islas Cook",2004,0
+"Eritrea",2004,0
+"Polinesia Francesa",2004,0
+"Ghana",2004,13
+"Groenlandia",2004,0
+"Granada",2004,8
+"Guinea",2004,0
+"Côte d'Ivoire (Costa de Marfil)",2004,0
+"Kirguistán",2004,0
+"Macao (China)",2004,0
+"Malawi",2004,0
+"Maldivas",2004,0
+"Mongolia",2004,0
+"República de Moldova",2004,3
+"Nepal",2004,0
+"Timor-Leste",2004,0
+"Ruanda",2004,64
+"Saint Kitts y Nevis",2004,0
+"Sao Tomé y Príncipe",2004,0
+"Togo",2004,0
+"Uganda",2004,225
+"República Unida de Tanzanía",2004,245
+"Burkina Faso",2004,35268
+"Venezuela",2004,0
+"Samoa",2004,0
+"Yemen",2004,0
+"Zambia",2004,0
+"Mundo",2005,21848134
+"Estados Unidos de América",2005,6897452
+"China",2005,808427
+"Brasil",2005,1988683
+"Colombia",2005,2409191
+"México",2005,1514754
+"España",2005,504342
+"Panamá",2005,847577
+"Argentina",2005,518381
+"Chile",2005,338921
+"Alemania",2005,610625
+"Perú",2005,285224
+"Ecuador",2005,157428
+"Italia",2005,496096
+"Canadá",2005,363021
+"Japón",2005,712137
+"Francia",2005,274371
+"Cuba",2005,85426
+"Reino Unido",2005,256015
+"Bolivia",2005,12699
+"Suiza",2005,169375
+"Países Bajos (Holanda)",2005,254681
+"República de Corea",2005,372049
+"Uruguay",2005,123915
+"Singapur",2005,28233
+"Antillas Holandesas",2005,154211
+"Federación de Rusia",2005,12191
+"Nueva Zelandia",2005,36027
+"Hong Kong (China)",2005,146119
+"Nicaragua",2005,1252
+"India",2005,85279
+"Bélgica",2005,254274
+"Suecia",2005,98009
+"Taipei Chino",2005,153404
+"Tailandia",2005,44442
+"Austria",2005,55976
+"Indonesia",2005,66988
+"Portugal",2005,13946
+"Irlanda",2005,42355
+"Belarús",2005,0
+"Paraguay",2005,7564
+"Guatemala",2005,33791
+"Malasia",2005,29491
+"Dinamarca",2005,22941
+"Turquía",2005,33086
+"Costa Rica",2005,32908
+"República Dominicana",2005,4418
+"Finlandia",2005,29316
+"Polonia",2005,45970
+"Islas Vírgenes Británicas",2005,2971
+"Marruecos",2005,3515
+"Hungría",2005,2949
+"Egipto",2005,1382
+"Tokelau",2005,0
+"Israel",2005,44677
+"Noruega",2005,77207
+"Sudafrica",2005,22751
+"Eslovaquia",2005,323
+"República Popular Democráticade Corea",2005,5700
+"Ucrania",2005,12505
+"Viet Nam",2005,6725
+"Australia",2005,12518
+"Emiratos Árabes Unidos",2005,9315
+"Guyana",2005,536
+"Irán (República Islámica del)",2005,15257
+"República Checa",2005,2523
+"Honduras",2005,765
+"Lituania",2005,2168
+"Barbados",2005,4105
+"Pakistán",2005,14023
+"Trinidad y Tobago",2005,29057
+"Filipinas",2005,3220
+"Jamaica",2005,18550
+"Arabia Saudita",2005,1253
+"El Salvador",2005,3463
+"República Árabe Siria",2005,2141
+"Bangladesh",2005,301
+"Rumania",2005,25750
+"Iraq",2005,8
+"Eslovenia",2005,1540
+"Albania",2005,795
+"Islandia",2005,1245
+"Grecia",2005,7194
+"Sri Lanka",2005,93
+"Afganistán",2005,946
+"Aruba",2005,21932
+"Malta",2005,85
+"Líbano",2005,377
+"Nigeria",2005,316
+"Pitcairn",2005,5
+"Brunei Darussalam",2005,0
+"Luxemburgo",2005,27
+"Santa Helena",2005,2
+"Letonia",2005,5206
+"Kuwait",2005,481
+"Jordania",2005,118
+"Mauricio",2005,0
+"Sudán",2005,1705
+"Suriname",2005,0
+"Túnez",2005,137
+"Belice",2005,3157
+"Santa Lucía",2005,165
+"Estonia",2005,4076
+"Georgia",2005,0
+"Chipre",2005,1
+"Bulgaria",2005,963
+"Zimbabwe",2005,0
+"Antigua y Barbuda",2005,740
+"Montserrat",2005,0
+"Nueva Caledonia",2005,44
+"Etiopía",2005,0
+"República Centroafricana",2005,55
+"Micronesia (Estados Federados de)",2005,0
+"Estados Unidos Minor periferico Islas",2005,1192
+"Senegal",2005,0
+"Islas Cocos (Keeling)",2005,0
+"Haití",2005,87
+"Camerún",2005,130
+"Islas Caimanes",2005,35
+"Malí",2005,184
+"Liberia",2005,211
+"Namibia",2005,13
+"Angola",2005,21
+"Islas Salomon",2005,0
+"Dominica",2005,52
+"Bahamas",2005,376
+"Qatar",2005,3
+"Islas Turks y Caicos",2005,0
+"Mozambique",2005,0
+"Armenia",2005,0
+"Bahrein",2005,0
+"Andorra",2005,2639
+"San Vicente y las Granadinas",2005,40
+"Omán",2005,28
+"Croacia",2005,145
+"Cabo Verde",2005,15
+"Mauritania",2005,0
+"Gabón",2005,0
+"Uzbekistán",2005,0
+"Camboya",2005,1
+"Serbia",2005,0
+"la ex República Yugoslavade Macedonia",2005,1
+"Níger",2005,13
+"Islas Feroe",2005,0
+"Congo",2005,7
+"Madagascar",2005,48
+"Papua Nueva Guinea",2005,0
+"República Democrática del Congo",2005,0
+"Islas (Malvinas) Falkland",2005,0
+"Gibraltar",2005,0
+"Benin",2005,0
+"Sierra Leona",2005,0
+"Kenya",2005,111
+"Seychelles",2005,4
+"Palestina",2005,0
+"Somalia",2005,0
+"Comoras",2005,0
+"Kazajstán",2005,16
+"Chad",2005,4
+"Guinea Ecuatorial",2005,2
+"Tierras Australes Francesas",2005,0
+"República Democrática Popular Lao",2005,0
+"Libia",2005,0
+"Nauru",2005,0
+"Vanuatu",2005,0
+"Niué",2005,0
+"Isla Norfolk",2005,0
+"Palau",2005,0
+"Anguila",2005,0
+"Sahara occidental",2005,12
+"Suazilandia",2005,80
+"Tayikistán",2005,0
+"Turkmenistán",2005,0
+"Serbia y Montenegro",2005,394
+"Zona Nep",2005,10
+"Argelia",2005,21
+"Azerbaiyán",2005,2
+"Bermudas",2005,1001
+"Bhután",2005,0
+"Bosnia y Herzegovina",2005,53
+"Myanmar (Birmania)",2005,0
+"Islas Cook",2005,0
+"Eritrea",2005,0
+"Polinesia Francesa",2005,21
+"Ghana",2005,2528
+"Groenlandia",2005,46
+"Granada",2005,1603
+"Guinea",2005,0
+"Côte d'Ivoire (Costa de Marfil)",2005,44
+"Kirguistán",2005,0
+"Macao (China)",2005,0
+"Malawi",2005,0
+"Maldivas",2005,15
+"Mongolia",2005,0
+"República de Moldova",2005,0
+"Nepal",2005,0
+"Timor-Leste",2005,0
+"Ruanda",2005,577
+"Saint Kitts y Nevis",2005,0
+"Sao Tomé y Príncipe",2005,0
+"Togo",2005,0
+"Uganda",2005,328
+"República Unida de Tanzanía",2005,252
+"Burkina Faso",2005,44
+"Venezuela",2005,25658
+"Samoa",2005,0
+"Yemen",2005,22
+"Zambia",2005,0
+"Mundo",2006,30559000
+"Estados Unidos de América",2006,7393288
+"China",2006,1652369
+"Brasil",2006,2456601
+"Colombia",2006,2420699
+"México",2006,1638316
+"España",2006,465763
+"Panamá",2006,548022
+"Argentina",2006,505129
+"Chile",2006,405305
+"Alemania",2006,702158
+"Perú",2006,293227
+"Ecuador",2006,204797
+"Italia",2006,587281
+"Canadá",2006,430055
+"Japón",2006,843894
+"Francia",2006,359961
+"Cuba",2006,25308
+"Reino Unido",2006,266874
+"Bolivia",2006,251570
+"Suiza",2006,190701
+"Países Bajos (Holanda)",2006,163131
+"República de Corea",2006,512274
+"Uruguay",2006,55460
+"Singapur",2006,52506
+"Antillas Holandesas",2006,64283
+"Federación de Rusia",2006,65812
+"Nueva Zelandia",2006,35349
+"Hong Kong (China)",2006,196702
+"Nicaragua",2006,3157
+"India",2006,110167
+"Bélgica",2006,162320
+"Suecia",2006,105694
+"Taipei Chino",2006,145712
+"Tailandia",2006,52975
+"Austria",2006,50427
+"Indonesia",2006,77755
+"Portugal",2006,15851
+"Irlanda",2006,84010
+"Belarús",2006,0
+"Paraguay",2006,57108
+"Guatemala",2006,17527
+"Malasia",2006,41533
+"Dinamarca",2006,96095
+"Turquía",2006,29861
+"Costa Rica",2006,15121
+"República Dominicana",2006,6968
+"Finlandia",2006,58245
+"Polonia",2006,29886
+"Islas Vírgenes Británicas",2006,1923
+"Marruecos",2006,7750
+"Hungría",2006,6753
+"Egipto",2006,2198
+"Tokelau",2006,0
+"Israel",2006,24213
+"Noruega",2006,23742
+"Sudafrica",2006,13241
+"Eslovaquia",2006,4392
+"República Popular Democráticade Corea",2006,0
+"Ucrania",2006,14475
+"Viet Nam",2006,17328
+"Australia",2006,11975
+"Emiratos Árabes Unidos",2006,7601
+"Guyana",2006,6
+"Irán (República Islámica del)",2006,37447
+"República Checa",2006,8904
+"Honduras",2006,547
+"Lituania",2006,7539
+"Barbados",2006,550
+"Pakistán",2006,10606
+"Trinidad y Tobago",2006,14243
+"Filipinas",2006,5056
+"Jamaica",2006,35664
+"Arabia Saudita",2006,7268
+"El Salvador",2006,4347
+"República Árabe Siria",2006,1546
+"Bangladesh",2006,322
+"Rumania",2006,6234
+"Iraq",2006,1638
+"Eslovenia",2006,1628
+"Albania",2006,1000
+"Islandia",2006,0
+"Grecia",2006,2990
+"Sri Lanka",2006,172
+"Afganistán",2006,234
+"Aruba",2006,3839
+"Malta",2006,13294
+"Líbano",2006,14490
+"Nigeria",2006,496
+"Pitcairn",2006,0
+"Brunei Darussalam",2006,4
+"Luxemburgo",2006,160
+"Santa Helena",2006,0
+"Letonia",2006,0
+"Kuwait",2006,180
+"Jordania",2006,108
+"Mauricio",2006,86
+"Sudán",2006,48
+"Suriname",2006,27
+"Túnez",2006,269
+"Belice",2006,0
+"Santa Lucía",2006,181
+"Estonia",2006,1972
+"Georgia",2006,0
+"Chipre",2006,7641
+"Bulgaria",2006,1795
+"Zimbabwe",2006,14
+"Antigua y Barbuda",2006,21557
+"Montserrat",2006,0
+"Nueva Caledonia",2006,0
+"Etiopía",2006,0
+"República Centroafricana",2006,0
+"Micronesia (Estados Federados de)",2006,0
+"Estados Unidos Minor periferico Islas",2006,2
+"Senegal",2006,0
+"Islas Cocos (Keeling)",2006,0
+"Haití",2006,6
+"Camerún",2006,11
+"Islas Caimanes",2006,0
+"Malí",2006,22
+"Liberia",2006,15000
+"Namibia",2006,186
+"Angola",2006,4
+"Islas Salomon",2006,0
+"Dominica",2006,87
+"Bahamas",2006,78737
+"Qatar",2006,189
+"Islas Turks y Caicos",2006,0
+"Mozambique",2006,0
+"Armenia",2006,0
+"Bahrein",2006,0
+"Andorra",2006,4359
+"San Vicente y las Granadinas",2006,0
+"Omán",2006,0
+"Croacia",2006,148
+"Cabo Verde",2006,0
+"Mauritania",2006,0
+"Gabón",2006,1711
+"Uzbekistán",2006,0
+"Camboya",2006,50
+"Serbia",2006,59
+"la ex República Yugoslavade Macedonia",2006,2
+"Níger",2006,5
+"Islas Feroe",2006,0
+"Congo",2006,0
+"Madagascar",2006,71
+"Papua Nueva Guinea",2006,0
+"República Democrática del Congo",2006,6
+"Islas (Malvinas) Falkland",2006,0
+"Gibraltar",2006,0
+"Benin",2006,0
+"Sierra Leona",2006,8
+"Kenya",2006,193
+"Seychelles",2006,0
+"Palestina",2006,0
+"Somalia",2006,0
+"Comoras",2006,0
+"Kazajstán",2006,0
+"Chad",2006,0
+"Guinea Ecuatorial",2006,0
+"Tierras Australes Francesas",2006,0
+"República Democrática Popular Lao",2006,0
+"Libia",2006,0
+"Nauru",2006,0
+"Vanuatu",2006,0
+"Niué",2006,0
+"Isla Norfolk",2006,25
+"Palau",2006,0
+"Anguila",2006,0
+"Sahara occidental",2006,0
+"Suazilandia",2006,0
+"Tayikistán",2006,0
+"Turkmenistán",2006,0
+"Serbia y Montenegro",2006,0
+"Zona Nep",2006,6158648
+"Argelia",2006,184
+"Azerbaiyán",2006,3
+"Bermudas",2006,21
+"Bhután",2006,0
+"Bosnia y Herzegovina",2006,3
+"Myanmar (Birmania)",2006,0
+"Islas Cook",2006,0
+"Eritrea",2006,0
+"Polinesia Francesa",2006,0
+"Ghana",2006,664
+"Groenlandia",2006,0
+"Granada",2006,235
+"Guinea",2006,0
+"Côte d'Ivoire (Costa de Marfil)",2006,0
+"Kirguistán",2006,0
+"Macao (China)",2006,0
+"Malawi",2006,0
+"Maldivas",2006,243
+"Mongolia",2006,11
+"República de Moldova",2006,0
+"Nepal",2006,0
+"Timor-Leste",2006,0
+"Ruanda",2006,782
+"Saint Kitts y Nevis",2006,0
+"Sao Tomé y Príncipe",2006,0
+"Togo",2006,69
+"Uganda",2006,143
+"República Unida de Tanzanía",2006,153
+"Burkina Faso",2006,0
+"Venezuela",2006,0
+"Samoa",2006,0
+"Yemen",2006,20
+"Zambia",2006,0
+"Mundo",2007,NA
+"Estados Unidos de América",2007,NA
+"China",2007,NA
+"Brasil",2007,NA
+"Colombia",2007,NA
+"México",2007,NA
+"España",2007,NA
+"Panamá",2007,NA
+"Argentina",2007,NA
+"Chile",2007,NA
+"Alemania",2007,NA
+"Perú",2007,NA
+"Ecuador",2007,NA
+"Italia",2007,NA
+"Canadá",2007,NA
+"Japón",2007,NA
+"Francia",2007,NA
+"Cuba",2007,NA
+"Reino Unido",2007,NA
+"Bolivia",2007,NA
+"Suiza",2007,NA
+"Países Bajos (Holanda)",2007,NA
+"República de Corea",2007,NA
+"Uruguay",2007,NA
+"Singapur",2007,NA
+"Antillas Holandesas",2007,NA
+"Federación de Rusia",2007,NA
+"Nueva Zelandia",2007,NA
+"Hong Kong (China)",2007,NA
+"Nicaragua",2007,NA
+"India",2007,NA
+"Bélgica",2007,NA
+"Suecia",2007,NA
+"Taipei Chino",2007,NA
+"Tailandia",2007,NA
+"Austria",2007,NA
+"Indonesia",2007,NA
+"Portugal",2007,NA
+"Irlanda",2007,NA
+"Belarús",2007,NA
+"Paraguay",2007,NA
+"Guatemala",2007,NA
+"Malasia",2007,NA
+"Dinamarca",2007,NA
+"Turquía",2007,NA
+"Costa Rica",2007,NA
+"República Dominicana",2007,NA
+"Finlandia",2007,NA
+"Polonia",2007,NA
+"Islas Vírgenes Británicas",2007,NA
+"Marruecos",2007,NA
+"Hungría",2007,NA
+"Egipto",2007,NA
+"Tokelau",2007,NA
+"Israel",2007,NA
+"Noruega",2007,NA
+"Sudafrica",2007,NA
+"Eslovaquia",2007,NA
+"República Popular Democráticade Corea",2007,NA
+"Ucrania",2007,NA
+"Viet Nam",2007,NA
+"Australia",2007,NA
+"Emiratos Árabes Unidos",2007,NA
+"Guyana",2007,NA
+"Irán (República Islámica del)",2007,NA
+"República Checa",2007,NA
+"Honduras",2007,NA
+"Lituania",2007,NA
+"Barbados",2007,NA
+"Pakistán",2007,NA
+"Trinidad y Tobago",2007,NA
+"Filipinas",2007,NA
+"Jamaica",2007,NA
+"Arabia Saudita",2007,NA
+"El Salvador",2007,NA
+"República Árabe Siria",2007,NA
+"Bangladesh",2007,NA
+"Rumania",2007,NA
+"Iraq",2007,NA
+"Eslovenia",2007,NA
+"Albania",2007,NA
+"Islandia",2007,NA
+"Grecia",2007,NA
+"Sri Lanka",2007,NA
+"Afganistán",2007,NA
+"Aruba",2007,NA
+"Malta",2007,NA
+"Líbano",2007,NA
+"Nigeria",2007,NA
+"Pitcairn",2007,NA
+"Brunei Darussalam",2007,NA
+"Luxemburgo",2007,NA
+"Santa Helena",2007,NA
+"Letonia",2007,NA
+"Kuwait",2007,NA
+"Jordania",2007,NA
+"Mauricio",2007,NA
+"Sudán",2007,NA
+"Suriname",2007,NA
+"Túnez",2007,NA
+"Belice",2007,NA
+"Santa Lucía",2007,NA
+"Estonia",2007,NA
+"Georgia",2007,NA
+"Chipre",2007,NA
+"Bulgaria",2007,NA
+"Zimbabwe",2007,NA
+"Antigua y Barbuda",2007,NA
+"Montserrat",2007,NA
+"Nueva Caledonia",2007,NA
+"Etiopía",2007,NA
+"República Centroafricana",2007,NA
+"Micronesia (Estados Federados de)",2007,NA
+"Estados Unidos Minor periferico Islas",2007,NA
+"Senegal",2007,NA
+"Islas Cocos (Keeling)",2007,NA
+"Haití",2007,NA
+"Camerún",2007,NA
+"Islas Caimanes",2007,NA
+"Malí",2007,NA
+"Liberia",2007,NA
+"Namibia",2007,NA
+"Angola",2007,NA
+"Islas Salomon",2007,NA
+"Dominica",2007,NA
+"Bahamas",2007,NA
+"Qatar",2007,NA
+"Islas Turks y Caicos",2007,NA
+"Mozambique",2007,NA
+"Armenia",2007,NA
+"Bahrein",2007,NA
+"Andorra",2007,NA
+"San Vicente y las Granadinas",2007,NA
+"Omán",2007,NA
+"Croacia",2007,NA
+"Cabo Verde",2007,NA
+"Mauritania",2007,NA
+"Gabón",2007,NA
+"Uzbekistán",2007,NA
+"Camboya",2007,NA
+"Serbia",2007,NA
+"la ex República Yugoslavade Macedonia",2007,NA
+"Níger",2007,NA
+"Islas Feroe",2007,NA
+"Congo",2007,NA
+"Madagascar",2007,NA
+"Papua Nueva Guinea",2007,NA
+"República Democrática del Congo",2007,NA
+"Islas (Malvinas) Falkland",2007,NA
+"Gibraltar",2007,NA
+"Benin",2007,NA
+"Sierra Leona",2007,NA
+"Kenya",2007,NA
+"Seychelles",2007,NA
+"Palestina",2007,NA
+"Somalia",2007,NA
+"Comoras",2007,NA
+"Kazajstán",2007,NA
+"Chad",2007,NA
+"Guinea Ecuatorial",2007,NA
+"Tierras Australes Francesas",2007,NA
+"República Democrática Popular Lao",2007,NA
+"Libia",2007,NA
+"Nauru",2007,NA
+"Vanuatu",2007,NA
+"Niué",2007,NA
+"Isla Norfolk",2007,NA
+"Palau",2007,NA
+"Anguila",2007,NA
+"Sahara occidental",2007,NA
+"Suazilandia",2007,NA
+"Tayikistán",2007,NA
+"Turkmenistán",2007,NA
+"Serbia y Montenegro",2007,NA
+"Zona Nep",2007,NA
+"Argelia",2007,NA
+"Azerbaiyán",2007,NA
+"Bermudas",2007,NA
+"Bhután",2007,NA
+"Bosnia y Herzegovina",2007,NA
+"Myanmar (Birmania)",2007,NA
+"Islas Cook",2007,NA
+"Eritrea",2007,NA
+"Polinesia Francesa",2007,NA
+"Ghana",2007,NA
+"Groenlandia",2007,NA
+"Granada",2007,NA
+"Guinea",2007,NA
+"Côte d'Ivoire (Costa de Marfil)",2007,NA
+"Kirguistán",2007,NA
+"Macao (China)",2007,NA
+"Malawi",2007,NA
+"Maldivas",2007,NA
+"Mongolia",2007,NA
+"República de Moldova",2007,NA
+"Nepal",2007,NA
+"Timor-Leste",2007,NA
+"Ruanda",2007,NA
+"Saint Kitts y Nevis",2007,NA
+"Sao Tomé y Príncipe",2007,NA
+"Togo",2007,NA
+"Uganda",2007,NA
+"República Unida de Tanzanía",2007,NA
+"Burkina Faso",2007,NA
+"Venezuela",2007,NA
+"Samoa",2007,NA
+"Yemen",2007,NA
+"Zambia",2007,NA
+"Mundo",2008,47450067
+"Estados Unidos de América",2008,12651313
+"China",2008,4527517
+"Brasil",2008,4275502
+"Colombia",2008,6903379
+"México",2008,2202931
+"España",2008,953157
+"Panamá",2008,1018396
+"Argentina",2008,1152173
+"Chile",2008,1213313
+"Alemania",2008,1420145
+"Perú",2008,961299
+"Ecuador",2008,557189
+"Italia",2008,1171960
+"Canadá",2008,807201
+"Japón",2008,764529
+"Francia",2008,486351
+"Cuba",2008,37623
+"Reino Unido",2008,397197
+"Bolivia",2008,401743
+"Suiza",2008,307382
+"Países Bajos (Holanda)",2008,362236
+"República de Corea",2008,557027
+"Uruguay",2008,244543
+"Singapur",2008,54447
+"Antillas Holandesas",2008,78269
+"Federación de Rusia",2008,246993
+"Nueva Zelandia",2008,240538
+"Hong Kong (China)",2008,289150
+"Nicaragua",2008,14299
+"India",2008,195176
+"Bélgica",2008,308112
+"Suecia",2008,217912
+"Taipei Chino",2008,290858
+"Tailandia",2008,127297
+"Austria",2008,61248
+"Indonesia",2008,94788
+"Portugal",2008,52753
+"Irlanda",2008,153044
+"Belarús",2008,4558
+"Paraguay",2008,145239
+"Guatemala",2008,14493
+"Malasia",2008,135544
+"Dinamarca",2008,98649
+"Turquía",2008,53191
+"Costa Rica",2008,33951
+"República Dominicana",2008,22607
+"Finlandia",2008,112099
+"Polonia",2008,98634
+"Islas Vírgenes Británicas",2008,3321
+"Marruecos",2008,18251
+"Hungría",2008,12601
+"Egipto",2008,5356
+"Tokelau",2008,0
+"Israel",2008,40172
+"Noruega",2008,33701
+"Sudafrica",2008,34607
+"Eslovaquia",2008,16049
+"República Popular Democráticade Corea",2008,227092
+"Ucrania",2008,19702
+"Viet Nam",2008,44898
+"Australia",2008,35455
+"Emiratos Árabes Unidos",2008,5894
+"Guyana",2008,1675
+"Irán (República Islámica del)",2008,80864
+"República Checa",2008,13790
+"Honduras",2008,9834
+"Lituania",2008,46584
+"Barbados",2008,25299
+"Pakistán",2008,26888
+"Trinidad y Tobago",2008,10762
+"Filipinas",2008,7875
+"Jamaica",2008,37420
+"Arabia Saudita",2008,11842
+"El Salvador",2008,13697
+"República Árabe Siria",2008,6015
+"Bangladesh",2008,459
+"Rumania",2008,9200
+"Iraq",2008,2452
+"Eslovenia",2008,3834
+"Albania",2008,722
+"Islandia",2008,1569
+"Grecia",2008,9401
+"Sri Lanka",2008,783
+"Afganistán",2008,1231
+"Aruba",2008,5733
+"Malta",2008,19
+"Líbano",2008,1230
+"Nigeria",2008,114
+"Pitcairn",2008,930
+"Brunei Darussalam",2008,47
+"Luxemburgo",2008,4023
+"Santa Helena",2008,1005
+"Letonia",2008,0
+"Kuwait",2008,99
+"Jordania",2008,1187
+"Mauricio",2008,476
+"Sudán",2008,386
+"Suriname",2008,10
+"Túnez",2008,331
+"Belice",2008,393
+"Santa Lucía",2008,243
+"Estonia",2008,60226
+"Georgia",2008,1548
+"Chipre",2008,283
+"Bulgaria",2008,24827
+"Zimbabwe",2008,53
+"Antigua y Barbuda",2008,304
+"Montserrat",2008,5
+"Nueva Caledonia",2008,33
+"Etiopía",2008,12
+"República Centroafricana",2008,177
+"Micronesia (Estados Federados de)",2008,43
+"Estados Unidos Minor periferico Islas",2008,370
+"Senegal",2008,14
+"Islas Cocos (Keeling)",2008,0
+"Haití",2008,200
+"Camerún",2008,17
+"Islas Caimanes",2008,0
+"Malí",2008,11
+"Liberia",2008,1621
+"Namibia",2008,25
+"Angola",2008,631
+"Islas Salomon",2008,9
+"Dominica",2008,158
+"Bahamas",2008,516
+"Qatar",2008,44
+"Islas Turks y Caicos",2008,1
+"Mozambique",2008,763
+"Armenia",2008,204
+"Bahrein",2008,0
+"Andorra",2008,0
+"San Vicente y las Granadinas",2008,287
+"Omán",2008,157
+"Croacia",2008,596
+"Cabo Verde",2008,0
+"Mauritania",2008,38
+"Gabón",2008,239
+"Uzbekistán",2008,0
+"Camboya",2008,145
+"Serbia",2008,2
+"la ex República Yugoslavade Macedonia",2008,0
+"Níger",2008,12
+"Islas Feroe",2008,3
+"Congo",2008,11
+"Madagascar",2008,0
+"Papua Nueva Guinea",2008,0
+"República Democrática del Congo",2008,0
+"Islas (Malvinas) Falkland",2008,0
+"Gibraltar",2008,1
+"Benin",2008,0
+"Sierra Leona",2008,260
+"Kenya",2008,21
+"Seychelles",2008,203
+"Palestina",2008,156
+"Somalia",2008,0
+"Comoras",2008,4
+"Kazajstán",2008,252
+"Chad",2008,75
+"Guinea Ecuatorial",2008,0
+"Tierras Australes Francesas",2008,2
+"República Democrática Popular Lao",2008,30
+"Libia",2008,10
+"Nauru",2008,24
+"Vanuatu",2008,0
+"Niué",2008,2
+"Isla Norfolk",2008,68
+"Palau",2008,0
+"Anguila",2008,13
+"Sahara occidental",2008,33
+"Suazilandia",2008,0
+"Tayikistán",2008,0
+"Turkmenistán",2008,0
+"Serbia y Montenegro",2008,0
+"Zona Nep",2008,0
+"Argelia",2008,0
+"Azerbaiyán",2008,341
+"Bermudas",2008,0
+"Bhután",2008,0
+"Bosnia y Herzegovina",2008,0
+"Myanmar (Birmania)",2008,4
+"Islas Cook",2008,0
+"Eritrea",2008,2
+"Polinesia Francesa",2008,2
+"Ghana",2008,38
+"Groenlandia",2008,0
+"Granada",2008,17
+"Guinea",2008,0
+"Côte d'Ivoire (Costa de Marfil)",2008,0
+"Kirguistán",2008,10
+"Macao (China)",2008,92
+"Malawi",2008,0
+"Maldivas",2008,0
+"Mongolia",2008,0
+"República de Moldova",2008,0
+"Nepal",2008,0
+"Timor-Leste",2008,0
+"Ruanda",2008,0
+"Saint Kitts y Nevis",2008,0
+"Sao Tomé y Príncipe",2008,0
+"Togo",2008,0
+"Uganda",2008,5
+"República Unida de Tanzanía",2008,680
+"Burkina Faso",2008,0
+"Venezuela",2008,592
+"Samoa",2008,0
+"Yemen",2008,37
+"Zambia",2008,33
+"Mundo",2009,38676637
+"Estados Unidos de América",2009,10545409
+"China",2009,4034462
+"Brasil",2009,3396426
+"Colombia",2009,4417550
+"México",2009,1461097
+"España",2009,794769
+"Panamá",2009,930727
+"Argentina",2009,873907
+"Chile",2009,877826
+"Alemania",2009,1258463
+"Perú",2009,541288
+"Ecuador",2009,616798
+"Italia",2009,1018896
+"Canadá",2009,539407
+"Japón",2009,624460
+"Francia",2009,423166
+"Cuba",2009,257569
+"Reino Unido",2009,377808
+"Bolivia",2009,351177
+"Suiza",2009,343286
+"Países Bajos (Holanda)",2009,390243
+"República de Corea",2009,320247
+"Uruguay",2009,296912
+"Singapur",2009,51525
+"Antillas Holandesas",2009,787482
+"Federación de Rusia",2009,133763
+"Nueva Zelandia",2009,129082
+"Hong Kong (China)",2009,280304
+"Nicaragua",2009,33569
+"India",2009,223061
+"Bélgica",2009,192241
+"Suecia",2009,236743
+"Taipei Chino",2009,233409
+"Tailandia",2009,91433
+"Austria",2009,104523
+"Indonesia",2009,84061
+"Portugal",2009,47884
+"Irlanda",2009,101978
+"Belarús",2009,109604
+"Paraguay",2009,82736
+"Guatemala",2009,18271
+"Malasia",2009,96099
+"Dinamarca",2009,71862
+"Turquía",2009,51425
+"Costa Rica",2009,45506
+"República Dominicana",2009,23673
+"Finlandia",2009,70363
+"Polonia",2009,27205
+"Islas Vírgenes Británicas",2009,3186
+"Marruecos",2009,3180
+"Hungría",2009,13577
+"Egipto",2009,4425
+"Tokelau",2009,20
+"Israel",2009,40467
+"Noruega",2009,30552
+"Sudafrica",2009,20430
+"Eslovaquia",2009,6080
+"República Popular Democráticade Corea",2009,65080
+"Ucrania",2009,8825
+"Viet Nam",2009,54787
+"Australia",2009,40008
+"Emiratos Árabes Unidos",2009,8337
+"Guyana",2009,913
+"Irán (República Islámica del)",2009,78789
+"República Checa",2009,4273
+"Honduras",2009,1583
+"Lituania",2009,8
+"Barbados",2009,34593
+"Pakistán",2009,24450
+"Trinidad y Tobago",2009,9483
+"Filipinas",2009,7526
+"Jamaica",2009,48491
+"Arabia Saudita",2009,28911
+"El Salvador",2009,13570
+"República Árabe Siria",2009,3961
+"Bangladesh",2009,796
+"Rumania",2009,5033
+"Iraq",2009,346
+"Eslovenia",2009,3418
+"Albania",2009,320
+"Islandia",2009,667
+"Grecia",2009,3038
+"Sri Lanka",2009,1075
+"Afganistán",2009,1029
+"Aruba",2009,5555
+"Malta",2009,13
+"Líbano",2009,2140
+"Nigeria",2009,40
+"Pitcairn",2009,224
+"Brunei Darussalam",2009,32
+"Luxemburgo",2009,2719
+"Santa Helena",2009,315
+"Letonia",2009,127
+"Kuwait",2009,24
+"Jordania",2009,682
+"Mauricio",2009,698
+"Sudán",2009,584
+"Suriname",2009,3084
+"Túnez",2009,435
+"Belice",2009,59
+"Santa Lucía",2009,298
+"Estonia",2009,595
+"Georgia",2009,47
+"Chipre",2009,235
+"Bulgaria",2009,3343
+"Zimbabwe",2009,0
+"Antigua y Barbuda",2009,15
+"Montserrat",2009,5
+"Nueva Caledonia",2009,92
+"Etiopía",2009,5
+"República Centroafricana",2009,0
+"Micronesia (Estados Federados de)",2009,146
+"Estados Unidos Minor periferico Islas",2009,2800
+"Senegal",2009,3
+"Islas Cocos (Keeling)",2009,0
+"Haití",2009,51
+"Camerún",2009,155
+"Islas Caimanes",2009,0
+"Malí",2009,0
+"Liberia",2009,43000
+"Namibia",2009,46
+"Angola",2009,52
+"Islas Salomon",2009,135
+"Dominica",2009,575
+"Bahamas",2009,794
+"Qatar",2009,70
+"Islas Turks y Caicos",2009,24
+"Mozambique",2009,54
+"Armenia",2009,1
+"Bahrein",2009,2284
+"Andorra",2009,3
+"San Vicente y las Granadinas",2009,0
+"Omán",2009,112
+"Croacia",2009,70
+"Cabo Verde",2009,0
+"Mauritania",2009,0
+"Gabón",2009,21
+"Uzbekistán",2009,7
+"Camboya",2009,73
+"Serbia",2009,51
+"la ex República Yugoslavade Macedonia",2009,0
+"Níger",2009,33
+"Islas Feroe",2009,1
+"Congo",2009,28
+"Madagascar",2009,50
+"Papua Nueva Guinea",2009,0
+"República Democrática del Congo",2009,0
+"Islas (Malvinas) Falkland",2009,14
+"Gibraltar",2009,3
+"Benin",2009,23
+"Sierra Leona",2009,87
+"Kenya",2009,26
+"Seychelles",2009,0
+"Palestina",2009,3
+"Somalia",2009,0
+"Comoras",2009,6
+"Kazajstán",2009,13
+"Chad",2009,0
+"Guinea Ecuatorial",2009,0
+"Tierras Australes Francesas",2009,1
+"República Democrática Popular Lao",2009,111
+"Libia",2009,0
+"Nauru",2009,33
+"Vanuatu",2009,0
+"Niué",2009,0
+"Isla Norfolk",2009,0
+"Palau",2009,0
+"Anguila",2009,0
+"Sahara occidental",2009,1
+"Suazilandia",2009,0
+"Tayikistán",2009,0
+"Turkmenistán",2009,0
+"Serbia y Montenegro",2009,0
+"Zona Nep",2009,90
+"Argelia",2009,173
+"Azerbaiyán",2009,38
+"Bermudas",2009,0
+"Bhután",2009,0
+"Bosnia y Herzegovina",2009,5
+"Myanmar (Birmania)",2009,2
+"Islas Cook",2009,26
+"Eritrea",2009,31
+"Polinesia Francesa",2009,2
+"Ghana",2009,26
+"Groenlandia",2009,0
+"Granada",2009,177
+"Guinea",2009,0
+"Côte d'Ivoire (Costa de Marfil)",2009,55
+"Kirguistán",2009,3
+"Macao (China)",2009,16
+"Malawi",2009,193
+"Maldivas",2009,0
+"Mongolia",2009,0
+"República de Moldova",2009,30
+"Nepal",2009,0
+"Timor-Leste",2009,0
+"Ruanda",2009,0
+"Saint Kitts y Nevis",2009,3
+"Sao Tomé y Príncipe",2009,79
+"Togo",2009,0
+"Uganda",2009,2
+"República Unida de Tanzanía",2009,147
+"Burkina Faso",2009,69
+"Venezuela",2009,0
+"Samoa",2009,12218
+"Yemen",2009,2
+"Zambia",2009,0
+"Mundo",2010,32342887
+"Estados Unidos de América",2010,9866018
+"China",2010,3593328
+"Brasil",2010,3180489
+"Colombia",2010,1424244
+"México",2010,1445568
+"España",2010,882735
+"Panamá",2010,737889
+"Argentina",2010,923532
+"Chile",2010,555231
+"Alemania",2010,1212268
+"Perú",2010,527095
+"Ecuador",2010,880859
+"Italia",2010,755400
+"Canadá",2010,485032
+"Japón",2010,449550
+"Francia",2010,512811
+"Cuba",2010,226649
+"Reino Unido",2010,356768
+"Bolivia",2010,396411
+"Suiza",2010,345029
+"Países Bajos (Holanda)",2010,260461
+"República de Corea",2010,231648
+"Uruguay",2010,320682
+"Singapur",2010,51450
+"Antillas Holandesas",2010,142233
+"Federación de Rusia",2010,113639
+"Nueva Zelandia",2010,120006
+"Hong Kong (China)",2010,235668
+"Nicaragua",2010,54257
+"India",2010,226478
+"Bélgica",2010,138408
+"Suecia",2010,118546
+"Taipei Chino",2010,194148
+"Tailandia",2010,51425
+"Austria",2010,83120
+"Indonesia",2010,67864
+"Portugal",2010,67979
+"Irlanda",2010,84514
+"Belarús",2010,68134
+"Paraguay",2010,78055
+"Guatemala",2010,22044
+"Malasia",2010,88151
+"Dinamarca",2010,52031
+"Turquía",2010,31801
+"Costa Rica",2010,32051
+"República Dominicana",2010,28924
+"Finlandia",2010,38623
+"Polonia",2010,86106
+"Islas Vírgenes Británicas",2010,24514
+"Marruecos",2010,19731
+"Hungría",2010,13464
+"Egipto",2010,4458
+"Tokelau",2010,8
+"Israel",2010,24795
+"Noruega",2010,14763
+"Sudafrica",2010,23748
+"Eslovaquia",2010,13913
+"República Popular Democráticade Corea",2010,42318
+"Ucrania",2010,2855
+"Viet Nam",2010,56551
+"Australia",2010,12622
+"Emiratos Árabes Unidos",2010,22697
+"Guyana",2010,65
+"Irán (República Islámica del)",2010,17636
+"República Checa",2010,4146
+"Honduras",2010,1985
+"Lituania",2010,4768
+"Barbados",2010,9140
+"Pakistán",2010,10775
+"Trinidad y Tobago",2010,13978
+"Filipinas",2010,2834
+"Jamaica",2010,26987
+"Arabia Saudita",2010,17513
+"El Salvador",2010,17081
+"República Árabe Siria",2010,7243
+"Bangladesh",2010,1686
+"Rumania",2010,3269
+"Iraq",2010,7087
+"Eslovenia",2010,1563
+"Albania",2010,1621
+"Islandia",2010,506
+"Grecia",2010,3496
+"Sri Lanka",2010,1424
+"Afganistán",2010,301
+"Aruba",2010,385
+"Malta",2010,8
+"Líbano",2010,2619
+"Nigeria",2010,497
+"Pitcairn",2010,122
+"Brunei Darussalam",2010,67
+"Luxemburgo",2010,721
+"Santa Helena",2010,2435
+"Letonia",2010,6864
+"Kuwait",2010,85
+"Jordania",2010,332
+"Mauricio",2010,72
+"Sudán",2010,448
+"Suriname",2010,0
+"Túnez",2010,396
+"Belice",2010,460
+"Santa Lucía",2010,216
+"Estonia",2010,7057
+"Georgia",2010,2765
+"Chipre",2010,2322
+"Bulgaria",2010,2122
+"Zimbabwe",2010,49
+"Antigua y Barbuda",2010,168
+"Montserrat",2010,2
+"Nueva Caledonia",2010,1
+"Etiopía",2010,128
+"República Centroafricana",2010,69
+"Micronesia (Estados Federados de)",2010,210
+"Estados Unidos Minor periferico Islas",2010,210
+"Senegal",2010,12
+"Islas Cocos (Keeling)",2010,0
+"Haití",2010,82
+"Camerún",2010,874
+"Islas Caimanes",2010,142
+"Malí",2010,0
+"Liberia",2010,0
+"Namibia",2010,36
+"Angola",2010,121
+"Islas Salomon",2010,0
+"Dominica",2010,329
+"Bahamas",2010,1201
+"Qatar",2010,13
+"Islas Turks y Caicos",2010,14
+"Mozambique",2010,9
+"Armenia",2010,0
+"Bahrein",2010,16
+"Andorra",2010,0
+"San Vicente y las Granadinas",2010,0
+"Omán",2010,186
+"Croacia",2010,46
+"Cabo Verde",2010,242
+"Mauritania",2010,0
+"Gabón",2010,57
+"Uzbekistán",2010,11
+"Camboya",2010,447
+"Serbia",2010,13
+"la ex República Yugoslavade Macedonia",2010,60
+"Níger",2010,3
+"Islas Feroe",2010,5
+"Congo",2010,0
+"Madagascar",2010,2
+"Papua Nueva Guinea",2010,6
+"República Democrática del Congo",2010,11
+"Islas (Malvinas) Falkland",2010,0
+"Gibraltar",2010,71
+"Benin",2010,0
+"Sierra Leona",2010,7650
+"Kenya",2010,3
+"Seychelles",2010,7
+"Palestina",2010,499
+"Somalia",2010,0
+"Comoras",2010,0
+"Kazajstán",2010,16
+"Chad",2010,2
+"Guinea Ecuatorial",2010,6
+"Tierras Australes Francesas",2010,0
+"República Democrática Popular Lao",2010,140
+"Libia",2010,27
+"Nauru",2010,0
+"Vanuatu",2010,3
+"Niué",2010,0
+"Isla Norfolk",2010,0
+"Palau",2010,0
+"Anguila",2010,0
+"Sahara occidental",2010,34
+"Suazilandia",2010,0
+"Tayikistán",2010,1
+"Turkmenistán",2010,108
+"Serbia y Montenegro",2010,0
+"Zona Nep",2010,0
+"Argelia",2010,123
+"Azerbaiyán",2010,21
+"Bermudas",2010,0
+"Bhután",2010,0
+"Bosnia y Herzegovina",2010,15
+"Myanmar (Birmania)",2010,459
+"Islas Cook",2010,0
+"Eritrea",2010,1
+"Polinesia Francesa",2010,0
+"Ghana",2010,395
+"Groenlandia",2010,0
+"Granada",2010,0
+"Guinea",2010,0
+"Côte d'Ivoire (Costa de Marfil)",2010,445
+"Kirguistán",2010,0
+"Macao (China)",2010,3
+"Malawi",2010,12
+"Maldivas",2010,0
+"Mongolia",2010,0
+"República de Moldova",2010,0
+"Nepal",2010,11
+"Timor-Leste",2010,20
+"Ruanda",2010,0
+"Saint Kitts y Nevis",2010,0
+"Sao Tomé y Príncipe",2010,25
+"Togo",2010,0
+"Uganda",2010,0
+"República Unida de Tanzanía",2010,22
+"Burkina Faso",2010,124
+"Venezuela",2010,50
+"Samoa",2010,20931
+"Yemen",2010,0
+"Zambia",2010,0
+"Mundo",2011,36387614
+"Estados Unidos de América",2011,10152871
+"China",2011,4354909
+"Brasil",2011,3139667
+"Colombia",2011,1521828
+"México",2011,1483384
+"España",2011,1454564
+"Panamá",2011,1372335
+"Argentina",2011,1277823
+"Chile",2011,1243667
+"Alemania",2011,941674
+"Perú",2011,748020
+"Ecuador",2011,745326
+"Italia",2011,687850
+"Canadá",2011,519241
+"Japón",2011,506552
+"Francia",2011,478512
+"Cuba",2011,398583
+"Reino Unido",2011,377556
+"Bolivia",2011,342772
+"Suiza",2011,320374
+"Países Bajos (Holanda)",2011,305303
+"República de Corea",2011,292216
+"Uruguay",2011,284536
+"Singapur",2011,270415
+"Antillas Holandesas",2011,264012
+"Federación de Rusia",2011,234382
+"Nueva Zelandia",2011,224821
+"Hong Kong (China)",2011,217059
+"Nicaragua",2011,199198
+"India",2011,197648
+"Bélgica",2011,185691
+"Suecia",2011,124635
+"Taipei Chino",2011,113123
+"Tailandia",2011,105881
+"Austria",2011,103611
+"Indonesia",2011,94358
+"Portugal",2011,92125
+"Irlanda",2011,82565
+"Belarús",2011,74774
+"Paraguay",2011,65124
+"Guatemala",2011,62085
+"Malasia",2011,61909
+"Dinamarca",2011,57564
+"Turquía",2011,52935
+"Costa Rica",2011,49457
+"República Dominicana",2011,47073
+"Finlandia",2011,42656
+"Polonia",2011,28876
+"Islas Vírgenes Británicas",2011,26287
+"Marruecos",2011,25948
+"Hungría",2011,24173
+"Egipto",2011,22477
+"Tokelau",2011,21936
+"Israel",2011,18947
+"Noruega",2011,18149
+"Sudafrica",2011,17719
+"Eslovaquia",2011,17159
+"República Popular Democráticade Corea",2011,17069
+"Ucrania",2011,14951
+"Viet Nam",2011,12766
+"Australia",2011,12035
+"Emiratos Árabes Unidos",2011,11165
+"Guyana",2011,9985
+"Irán (República Islámica del)",2011,9940
+"República Checa",2011,8656
+"Honduras",2011,8099
+"Lituania",2011,7870
+"Barbados",2011,7763
+"Pakistán",2011,6410
+"Trinidad y Tobago",2011,5733
+"Filipinas",2011,5711
+"Jamaica",2011,5329
+"Arabia Saudita",2011,3453
+"El Salvador",2011,3347
+"República Árabe Siria",2011,2964
+"Bangladesh",2011,2119
+"Rumania",2011,1995
+"Iraq",2011,1991
+"Eslovenia",2011,1941
+"Albania",2011,1909
+"Islandia",2011,1907
+"Grecia",2011,1703
+"Sri Lanka",2011,1601
+"Afganistán",2011,1587
+"Aruba",2011,1586
+"Malta",2011,1565
+"Líbano",2011,1559
+"Nigeria",2011,1527
+"Pitcairn",2011,1512
+"Brunei Darussalam",2011,1415
+"Luxemburgo",2011,1380
+"Santa Helena",2011,1258
+"Letonia",2011,1095
+"Kuwait",2011,1028
+"Jordania",2011,948
+"Mauricio",2011,937
+"Sudán",2011,806
+"Suriname",2011,780
+"Túnez",2011,605
+"Belice",2011,578
+"Santa Lucía",2011,377
+"Estonia",2011,375
+"Georgia",2011,349
+"Chipre",2011,336
+"Bulgaria",2011,315
+"Zimbabwe",2011,274
+"Antigua y Barbuda",2011,203
+"Montserrat",2011,200
+"Nueva Caledonia",2011,199
+"Etiopía",2011,197
+"República Centroafricana",2011,147
+"Micronesia (Estados Federados de)",2011,146
+"Estados Unidos Minor periferico Islas",2011,129
+"Senegal",2011,106
+"Islas Cocos (Keeling)",2011,104
+"Haití",2011,104
+"Camerún",2011,90
+"Islas Caimanes",2011,87
+"Malí",2011,84
+"Liberia",2011,70
+"Namibia",2011,68
+"Angola",2011,53
+"Islas Salomon",2011,53
+"Dominica",2011,49
+"Bahamas",2011,48
+"Qatar",2011,47
+"Islas Turks y Caicos",2011,45
+"Mozambique",2011,45
+"Armenia",2011,41
+"Bahrein",2011,39
+"Andorra",2011,33
+"San Vicente y las Granadinas",2011,32
+"Omán",2011,24
+"Croacia",2011,23
+"Cabo Verde",2011,22
+"Mauritania",2011,20
+"Gabón",2011,17
+"Uzbekistán",2011,17
+"Camboya",2011,17
+"Serbia",2011,17
+"la ex República Yugoslavade Macedonia",2011,16
+"Níger",2011,13
+"Islas Feroe",2011,9
+"Congo",2011,9
+"Madagascar",2011,9
+"Papua Nueva Guinea",2011,8
+"República Democrática del Congo",2011,6
+"Islas (Malvinas) Falkland",2011,5
+"Gibraltar",2011,5
+"Benin",2011,4
+"Sierra Leona",2011,3
+"Kenya",2011,3
+"Seychelles",2011,2
+"Palestina",2011,1
+"Somalia",2011,1
+"Comoras",2011,1
+"Kazajstán",2011,1
+"Chad",2011,0
+"Guinea Ecuatorial",2011,0
+"Tierras Australes Francesas",2011,0
+"República Democrática Popular Lao",2011,0
+"Libia",2011,0
+"Nauru",2011,0
+"Vanuatu",2011,0
+"Niué",2011,0
+"Isla Norfolk",2011,0
+"Palau",2011,0
+"Anguila",2011,0
+"Sahara occidental",2011,0
+"Suazilandia",2011,0
+"Tayikistán",2011,0
+"Turkmenistán",2011,0
+"Serbia y Montenegro",2011,0
+"Zona Nep",2011,0
+"Argelia",2011,0
+"Azerbaiyán",2011,0
+"Bermudas",2011,0
+"Bhután",2011,0
+"Bosnia y Herzegovina",2011,0
+"Myanmar (Birmania)",2011,0
+"Islas Cook",2011,0
+"Eritrea",2011,0
+"Polinesia Francesa",2011,0
+"Ghana",2011,0
+"Groenlandia",2011,0
+"Granada",2011,0
+"Guinea",2011,0
+"Côte d'Ivoire (Costa de Marfil)",2011,0
+"Kirguistán",2011,0
+"Macao (China)",2011,0
+"Malawi",2011,0
+"Maldivas",2011,0
+"Mongolia",2011,0
+"República de Moldova",2011,0
+"Nepal",2011,0
+"Timor-Leste",2011,0
+"Ruanda",2011,0
+"Saint Kitts y Nevis",2011,0
+"Sao Tomé y Príncipe",2011,0
+"Togo",2011,0
+"Uganda",2011,0
+"República Unida de Tanzanía",2011,0
+"Burkina Faso",2011,0
+"Venezuela",2011,0
+"Samoa",2011,0
+"Yemen",2011,0
+"Zambia",2011,0
